@@ -30,6 +30,7 @@ The server package my_srv contains the file final_project_server.cpp containing 
 
 Download and add the package to the workspace
 
+`https://github.com/Vallamkondavishal/RT1_final_assignment.git`
 
 
 1.In the command terminal, launch Gazebo and rviz by executing the following command:
